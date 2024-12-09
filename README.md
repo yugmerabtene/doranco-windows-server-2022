@@ -169,5 +169,7 @@ Bien que le Gestionnaire de serveur reste utile pour les tâches locales, **Wind
 
 Pour des infrastructures modernes ou hybrides, combinez le Gestionnaire de serveur avec des outils comme **Windows Admin Center** pour maximiser votre efficacité.
 
+![image](https://github.com/user-attachments/assets/be74e1a1-57ae-468c-8845-78ff2b109c55)
+
 ----
 
