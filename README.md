@@ -171,5 +171,51 @@ Pour des infrastructures modernes ou hybrides, combinez le Gestionnaire de serve
 
 ![image](https://github.com/user-attachments/assets/be74e1a1-57ae-468c-8845-78ff2b109c55)
 
+
+
+### **Options principales affichées :**
+1. **Configurer ce serveur local** :
+   - Permet de définir les paramètres de base, comme :
+     - Renommer l’ordinateur.
+     - Configurer les paramètres réseau (IP, DNS, etc.).
+     - Activer ou désactiver les mises à jour.
+     - Joindre le serveur à un domaine.
+
+2. **Ajouter des rôles et des fonctionnalités** :
+   - Démarre l’assistant pour installer les rôles (ex. : Active Directory, DNS, DHCP) ou des fonctionnalités supplémentaires.
+
+3. **Ajouter d’autres serveurs à gérer** :
+   - Ajout de serveurs distants pour gérer un environnement multi-serveurs depuis une seule interface.
+
+4. **Créer un groupe de serveurs** :
+   - Organise plusieurs serveurs en groupes pour faciliter leur gestion et leur surveillance.
+
+5. **Connecter ce serveur aux services cloud** :
+   - Permet l’intégration avec des services Azure, comme :
+     - Azure Arc.
+     - Azure Site Recovery.
+     - Gestion hybride via Windows Admin Center.
+
+---
+
+### **Panneaux affichés en bas :**
+1. **Services de fichiers et de stockage** :
+   - Indique l’état des services liés au stockage et aux partages de fichiers.
+   - Propose des outils pour gérer les volumes, les disques, et les quotas.
+
+2. **Serveur local** :
+   - Montre les performances, les événements récents, et les résultats d’analyse (BPA - Best Practices Analyzer).
+
+3. **Tous les serveurs** :
+   - Vue globale de tous les serveurs ajoutés au gestionnaire.
+
+---
+
+### **Utilisations pratiques :**
+- **Diagnostic rapide** : Les indicateurs de couleur (vert/rouge) montrent immédiatement les problèmes ou les services fonctionnant normalement.
+- **Simplification de la gestion** : Centralisation de toutes les tâches administratives courantes.
+- **Extension cloud** : Intégration facile des services Azure pour un environnement hybride.
+
+
 ----
 
