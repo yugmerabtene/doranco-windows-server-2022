@@ -217,5 +217,6 @@ Pour des infrastructures modernes ou hybrides, combinez le Gestionnaire de serve
 - **Extension cloud** : Intégration facile des services Azure pour un environnement hybride.
 
 
+
 ----
 
